@@ -1,0 +1,1 @@
+console.log('Kaizen Design Studio loaded');
